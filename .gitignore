@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.env
+.streamlit/secrets.toml
+chroma_db/
 *.py[codz]
 *$py.class
 
